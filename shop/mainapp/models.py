@@ -28,7 +28,7 @@ class LatestProductManager:
         return products
 
 
-class LatestProduct:
+class LatestProducts:
 
     objects = LatestProductManager()
 
