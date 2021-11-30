@@ -9,3 +9,10 @@
 Запуск сервера
 
     python manage.py runserver
+
+Миграции
+
+    python manage.py makemigrations
+    python manage.py migrate
+
+
